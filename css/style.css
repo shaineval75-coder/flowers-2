@@ -77,7 +77,10 @@ body{
 .button a{
     text-decoration: none;
     font-size: 1rem;
-    color: #111;
+    color: #751439;
+}
+.class{
+    color:#751439;
 }
 
 @media screen and (max-width:574px){
